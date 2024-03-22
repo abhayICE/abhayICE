@@ -1,0 +1,22 @@
+{
+  "name": "reactjs",
+  "version": "2.0.0",
+  "description": "React JS",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reactjs"
+  ],
+  "author": "Abhay Kumar",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
